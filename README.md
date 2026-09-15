@@ -15,6 +15,11 @@ for applications and games that expect analog controller input.
 > **Keyboard:** Kreo Hive 75 HE\
 > **Virtual controller:** Xbox 360 / XInput
 
+<p align="center">
+  <img src="App.png" alt="KH75HE-GPE-Preview">
+  KH75 HE Gamepad Emulator App Preview
+</p>
+
 ------------------------------------------------------------------------
 
 ## What does it do?
